@@ -1,7 +1,7 @@
 {
   "random tune": {
-    "version": "1.0",
+    "version": "1.1",
     "url": "https://github.com/veadar/random-tune/releases",
-    "comment": "・MenuBarAppleScriptで書き直した"
+    "comment": "・icon.icnsの微調整"
   }
 }
