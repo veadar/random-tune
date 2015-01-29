@@ -1,7 +1,7 @@
 {
   "random tune": {
-    "version": "1.1.2",
+    "version": "1.1.3",
     "url": "https://github.com/veadar/random-tune/releases",
-    "comment": "・fix bug in doRun handler"
+    "comment": "・fix bug button dialog"
   }
 }

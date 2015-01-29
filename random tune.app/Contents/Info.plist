@@ -32,7 +32,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.1.2</string>
+	<string>1.1.3</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleURLTypes</key>
@@ -47,7 +47,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.1.2</string>
+	<string>1.1.3</string>
 	<key>LSMinimumSystemVersion</key>
 	<string>10.6</string>
 	<key>LSMinimumSystemVersionByArchitecture</key>
@@ -63,18 +63,22 @@
 	<string>NSApplication</string>
 	<key>WindowState</key>
 	<dict>
+		<key>bundleDividerCollapsed</key>
+		<true/>
+		<key>bundlePositionOfDivider</key>
+		<real>0.0</real>
 		<key>dividerCollapsed</key>
 		<false/>
 		<key>eventLogLevel</key>
-		<integer>-1</integer>
+		<integer>2</integer>
 		<key>name</key>
 		<string>ScriptWindowState</string>
 		<key>positionOfDivider</key>
 		<real>494</real>
 		<key>savedFrame</key>
-		<string>358 623 696 680 0 0 2560 1418 </string>
-		<key>selectedTabView</key>
-		<string>event log</string>
+		<string>358 622 696 680 0 0 2560 1417 </string>
+		<key>selectedTab</key>
+		<string>log</string>
 	</dict>
 	<key>___No_NSServices____</key>
 	<array>
